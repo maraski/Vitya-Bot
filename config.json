@@ -1,4 +1,4 @@
 {
   "token": "YOUR BOT'S TOKEN HERE",
-  "prefix": "!" //can be anything you like. also optional
+  "prefix": "!"
 }
